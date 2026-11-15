@@ -1,9 +1,14 @@
-# Release Guardian — public notice
+# Release Guardian — installation and privacy
 
-Release Guardian is an independent Jira Cloud hackathon app built on Atlassian Forge.
+An independent Jira Cloud hackathon MVP built on Atlassian Forge.
 
-[Privacy notice](privacy-policy.md)
+[**Install Release Guardian on your Jira Cloud test site**](https://developer.atlassian.com/console/install/cf983ab7-5a7f-4e21-80fc-193f2077a8fc?signature=AYABeLxbYbqf6qAkLlV9brV6gmEAAAADAAdhd3Mta21zAEthcm46YXdzOmttczp1cy13ZXN0LTI6NzA5NTg3ODM1MjQzOmtleS83MDVlZDY3MC1mNTdjLTQxYjUtOWY5Yi1lM2YyZGNjMTQ2ZTcAuAECAQB4CxqLTo9l4lqXuFjNim1xJM%2Bp%2F3TVP9xHS2BrU5DRRucB9P3MCx9Go5k8pVg%2BnoRWAAAAAH4wfAYJKoZIhvcNAQcGoG8wbQIBADBoBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDFOO31uEt%2FIbD4hCtQIBEIA79km%2F5gUFonKmVlAw39hOV2cc%2BvoZpAzy1iaS361UHreePrB9cbJu1hrpzIV1bCTM15xKeMn9aFIzsKIAB2F3cy1rbXMAS2Fybjphd3M6a21zOmV1LXdlc3QtMTo3MDk1ODc4MzUyNDM6a2V5LzQ2MzBjZTZiLTAwYzMtNGRlMi04NzdiLTYyN2UyMDYwZTVjYwC4AQICAHi9bVMAkme4qVQX1fQHo6ePw3H40A7cGfz7yrmSfBWMXgEgr4q4f3NP2ASfBVOpnBqgAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMIwUYYmvbHkWo9bITAgEQgDu%2BQvs%2BGsx%2BEgyieLqYG7Y4VeFrjkNUZs2%2FPpL6pbgoaKf4ZuOIqTx%2B%2BKgEAHNVupR2OiR2GyFHGVAnyAAHYXdzLWttcwBLYXJuOmF3czprbXM6dXMtZWFzdC0xOjcwOTU4NzgzNTI0MzprZXkvNmMxMjBiYTAtNGNkNS00OTg1LWI4MmUtNDBhMDQ5NTJjYzU3ALgBAgIAeDYASx0XCjkny4iLV6vz%2BKtEGSGT6kdt0QRpkn6D%2FlVEAQZoNoRMSlk2BWeYdH0K%2BcQAAAB%2BMHwGCSqGSIb3DQEHBqBvMG0CAQAwaAYJKoZIhvcNAQcBMB4GCWCGSAFlAwQBLjARBAw%2BCn6s4ln627XXJ50CARCAO3G2aExXcZfwMhd%2B3Oewx72w%2BHH6AHmK%2B8dwIBIvG3GnRfs%2By3JDHr%2ByLvlNy%2BgPdMgpoMdW3AdFCZnNAgAAAAAMAAAQAAAAAAAAAAAAAAAAAF6f%2FZurWJs2EiuenOBidfP%2F%2F%2F%2F%2FAAAAAQAAAAAAAAAAAAAAAQAAADKV8K51U8JK6A4hfVwGUhRJjdZkANS1gtsAHgvU%2F7dlCqbP2oj5XUe7LYOaMctznbfaD0Xh2ad7ph%2BnV8oUYRM7fz0%3D&product=jira)
+
+A Jira site administrator must install the app. No access to the author's Jira account is required.
+
+- [Judge installation and reproducible test guide](judge-instructions.md)
+- [Privacy notice](privacy-policy.md)
 
 Support: sagarbagwe2506@gmail.com
 
-This repository contains the public privacy notice only, not the application source.
+This repository contains public installation and privacy documentation only, not application source code. Ready is a point-in-time result within visible, supported scope—not full release sign-off.
